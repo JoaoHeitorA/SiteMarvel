@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/logom.jpg');
+    background-image: url('logom.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -78,8 +78,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/homendeferro.png') top right no-repeat,
-        url('img/h.png') bottom left no-repeat;
+    background: url('homendeferro.png') top right no-repeat,
+        url('h.png') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -107,12 +107,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/hulk.png') bottom right no-repeat;
+    background: url('hulk.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/fundo.png');
+    background-image: url('fundo.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
